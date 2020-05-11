@@ -15,13 +15,13 @@ on:
 
 env:
   # Set the Azure Resource Group name
-  AzureResourceGroup: YOUR_RESOURCE_GROUP_NAME
+  AzureResourceGroup: ldodorg
   # Set the Azure LUIS Authoring Resource name
-  AzureLuisAuthoringResourceName: YOUR_LUIS_AUTHORING_RESOURCE_NAME
+  AzureLuisAuthoringResourceName: ldodorg-Authoring
   # Set the Azure LUIS Prediction Resource name
-  AzureLuisPredictionResourceName: YOUR_LUIS_PREDICTION_RESOURCE_NAME
+  AzureLuisPredictionResourceName: ldodorg-Prediction
   # Set the Azure Storage Account name
-  AzureStorageAccountName: yourstorageaccountname
+  AzureStorageAccountName: ldodorgstorage
   
   # Set the name of the master LUIS app
   LUIS_MASTER_APP_NAME: LUISDevOps-master
