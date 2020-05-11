@@ -1,6 +1,6 @@
 
 > LUIS application information
-> !# @app.name = DevOpsSample
+> !# @app.name = d-update-luis-sample
 > !# @app.desc = Sample app for the LUIS DevOps guidance
 > !# @app.versionId = 0.1
 > !# @app.culture = en-us
@@ -103,5 +103,3 @@
 
 
 > # RegEx entities
-
-
